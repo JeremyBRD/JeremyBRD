@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rspec && React 🚀**
 
-- 👨‍💻 All of my projects are available at [https://jeremybrd.dev](jeremybrd.dev)
+- 👨‍💻 All of my projects are available at [https://jeremybrd.dev]
 
 - 💬 Ask me about **Ruby, Ruby on Rails & JS**
 
