@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at **https://jeremybrd.dev**
 
-- 💬 Ask me about **Ruby, Ruby on Rails & JS**
+- 💬 Ask me about **Ruby, Ruby on Rails && JS**
 
 - 📫 How to reach me **jeremybarbedienne@gmail.com**
 
