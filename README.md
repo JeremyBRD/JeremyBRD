@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [My Trip Dashboard](## link is Coming Soon ##)
 
-- 🌱 I’m currently learning **Rspec && React 🚀**
+- 🌱 I’m currently learning **Rspec ✅❌ && React 🚀**
 
 - 👨‍💻 All of my projects are available at **https://jeremybrd.dev**
 
