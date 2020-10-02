@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Jérémy</h1>
 <h3 align="center">A passionate Full Stack developer from France 🥖</h3>
+<h3 align="center" style="color:green">I am actualy Looking for a job</h3>
 
 - 🔭 I’m currently working on [My Trip Dashboard](## link is Coming Soon ##)
 
