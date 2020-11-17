@@ -1,6 +1,5 @@
 <h1 >Hi there 👋, I'm Jérémy</h1>
 <h3 align="center">A passionate Full Stack developer from France 🥖</h3>
-<h3 align="center">I am currently Looking for opportunities</h3>
 
 - 🔭 I’m currently working on [My Trip Dashboard](https://mytripdashboard.herokuapp.com/) (personnal project)
 
