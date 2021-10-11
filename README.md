@@ -1,7 +1,7 @@
 <h1 >Hi there 👋, I'm Jérémy</h1>
 <h3 align="center">A passionate Full Stack developer from France 🥖</h3>
 
-- 🔭 I’m currently working on [Fruneau-Avocat](https://www.fruneau-avocat.com/) (personnal project)
+- 🔭 I’m currently working on [Fruneau-Avocat](https://www.fruneau-avocat.com/)
 
 - 🌱 I’m currently learning **React 🚀**
 
